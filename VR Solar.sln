@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR Solar.CSharp", "VR Solar.CSharp.csproj", "{3D256555-DA55-CFCD-1848-818CEBA0552B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR Solar.CSharp.Editor", "VR Solar.CSharp.Editor.csproj", "{B00917CD-336D-55FF-43B6-FC5AF4F74C94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D256555-DA55-CFCD-1848-818CEBA0552B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D256555-DA55-CFCD-1848-818CEBA0552B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D256555-DA55-CFCD-1848-818CEBA0552B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D256555-DA55-CFCD-1848-818CEBA0552B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B00917CD-336D-55FF-43B6-FC5AF4F74C94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B00917CD-336D-55FF-43B6-FC5AF4F74C94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B00917CD-336D-55FF-43B6-FC5AF4F74C94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B00917CD-336D-55FF-43B6-FC5AF4F74C94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
