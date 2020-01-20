@@ -1,9 +1,15 @@
 # Solar-VR
-Virtual Reality application for the Solar System
+Virtual Reality application on showing the solar system
 
-I used Unity 3D 5.4.3 for this project.
-
-The Application is currently only available for Google cardboard.
-
-You're welcome to send issues for fix or email me at johnhaysupetran@gmail.com if you need assistance or to use this for commercial uses.
-
+# Technical Requirements
+Game Engine:
+   -Unity 3D 5.4.3
+  
+3D Software:
+  -Blender 3D
+  
+Scripting Language:
+  -C#
+  
+Platform Availability:
+  -Google Cardboard ( Android )
